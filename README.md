@@ -58,7 +58,8 @@ With more data or training, the librarian’s stories will grow wiser!
 
 ## Project Structure
 
-- `simple_llm_with_textopia.py`: The main script with the LLM code and Textopia-themed comments.
+- `character-level-transformer.py`: The script implemented with a character level transfomer and Textopia-themed comments.
+- `word-level-transformer.py`: The  script implemented with a word level transformer and Textopia-themed comments 
 - `README.md`: This file, your guide to Textopia.
 
 ## Future Enhancements
