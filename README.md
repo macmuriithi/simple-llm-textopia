@@ -34,13 +34,13 @@ To explore Textopia, you’ll need:
    ```
 
 3. **Verify Setup**:
-   Ensure `simple_llm_with_textopia.py` is in the repository. This is the spellbook containing the librarian’s code!
+   Ensure `character-level-transformer.py` is in the repository. This is the spellbook containing the librarian’s code!
 
 ## Usage
 
 Run the code to train the librarian and hear its tale:
 ```bash
-python simple_llm_with_textopia.py
+python character-level-transformer.py
 ```
 
 ### What Happens?
