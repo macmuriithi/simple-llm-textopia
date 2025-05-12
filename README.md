@@ -56,8 +56,8 @@ Generated text: Once upon a timmmmeeee, therrrrrr...
 ```
 With more data or training, the librarian’s stories will grow wiser!
 
-## Project Structure
-
+## Adventures
+- `basic-word-lookup-table.py`:  1st Adventure: A simple model that predicts the next word based on word pair frequencies, like a dictionary of “what follows what.” It uses no machine learning, just counting how often one word follows another.
 - `character-level-transformer.py`: The script implemented with a character level transfomer and Textopia-themed comments.
 - `word-level-transformer.py`: The  script implemented with a word level transformer and Textopia-themed comments 
 - `README.md`: This file, your guide to Textopia.
