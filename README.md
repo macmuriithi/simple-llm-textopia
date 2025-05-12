@@ -58,6 +58,7 @@ With more data or training, the librarian’s stories will grow wiser!
 
 ## Adventures
 - 1st Adventure `basic-word-lookup-table.py` :  A simple model that predicts the next word based on word pair frequencies, like a dictionary of “what follows what.” It uses no machine learning, just counting how often one word follows another. It’s a static approach, like a lookup table, with no learning or adaptation, making it an intuitive first step to understand word prediction in LLMs.
+- 2nd Adventure `simple-feed-foward-neural-network.py` : A simple feed-forward neural network that learns to predict the next word using embeddings and a single layer, introducing machine learning and neural networks.
 - `character-level-transformer.py`: The script implemented with a character level transfomer and Textopia-themed comments.
 - `word-level-transformer.py`: The  script implemented with a word level transformer and Textopia-themed comments 
 - `README.md`: This file, your guide to Textopia.
